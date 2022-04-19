@@ -2,7 +2,7 @@
 title: "Practical 1 - Data Science"
 author: "Elisa Simon"
 date: "`r format(Sys.time(), '%d %m %Y')`"
-output: html_document
+output: github_document
 bibliography: p_1.bib
 csl: apa-6th-edition.csl
 ---
